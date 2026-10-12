@@ -1,0 +1,14 @@
+# Control Flow
+
+score = 85
+
+if score >= 90:
+    print("Grade: A")
+elif score >= 80:
+    print("Grade: B")
+else:
+    print("Grade: C")
+
+# Loop example
+for i in range(1, 6):
+    print(i)
